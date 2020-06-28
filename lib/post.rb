@@ -10,6 +10,7 @@ class Post
   @@all
  end
 def author_name
+  Post.author
 end
  
 end
