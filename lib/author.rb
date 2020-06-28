@@ -27,8 +27,4 @@ end
     @posts.count
   end
 
-  def posts
-    @posts
-  end
-
 end
